@@ -12,14 +12,14 @@ public class Knight
     // Methods
     public void HolyBlow()
     {
-        Console.WriteLine("Knight holy blowed")
+        Console.WriteLine("Knight holy blowed");
     }
     public void PurifySoul()
     {
-        Console.WriteLine("Knight Purified a soul")
+        Console.WriteLine("Knight Purified a soul");
     }
     public void RighteousWing()
     {
-        Console.WriteLine("Knight used righteous wing")
+        Console.WriteLine("Knight used righteous wing");
     }
 }
