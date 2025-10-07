@@ -1,0 +1,15 @@
+/home/luca/Documents/code/projects/OOP-Game/bin/Debug/net8.0/OOP-Game
+/home/luca/Documents/code/projects/OOP-Game/bin/Debug/net8.0/OOP-Game.deps.json
+/home/luca/Documents/code/projects/OOP-Game/bin/Debug/net8.0/OOP-Game.runtimeconfig.json
+/home/luca/Documents/code/projects/OOP-Game/bin/Debug/net8.0/OOP-Game.dll
+/home/luca/Documents/code/projects/OOP-Game/bin/Debug/net8.0/OOP-Game.pdb
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/OOP-Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/OOP-Game.AssemblyInfoInputs.cache
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/OOP-Game.AssemblyInfo.cs
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/OOP-Game.csproj.CoreCompileInputs.cache
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/OOP-Game.sourcelink.json
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/OOP-Game.dll
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/refint/OOP-Game.dll
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/OOP-Game.pdb
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/OOP-Game.genruntimeconfig.cache
+/home/luca/Documents/code/projects/OOP-Game/obj/Debug/net8.0/ref/OOP-Game.dll
