@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "OOP-Game/1.0.0": {
+      "OopGame/1.0.0": {
         "runtime": {
-          "OOP-Game.dll": {}
+          "OopGame.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "OOP-Game/1.0.0": {
+    "OopGame/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

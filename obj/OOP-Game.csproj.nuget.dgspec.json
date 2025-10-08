@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/luca/Documents/code/projects/OOP-Game/OOP-Game.csproj": {}
+    "/home/luca/Documents/code/projects/OopGame/OopGame.csproj": {}
   },
   "projects": {
-    "/home/luca/Documents/code/projects/OOP-Game/OOP-Game.csproj": {
+    "/home/luca/Documents/code/projects/OopGame/OopGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/luca/Documents/code/projects/OOP-Game/OOP-Game.csproj",
-        "projectName": "OOP-Game",
-        "projectPath": "/home/luca/Documents/code/projects/OOP-Game/OOP-Game.csproj",
+        "projectUniqueName": "/home/luca/Documents/code/projects/OopGame/OopGame.csproj",
+        "projectName": "OopGame",
+        "projectPath": "/home/luca/Documents/code/projects/OopGame/OopGame.csproj",
         "packagesPath": "/home/luca/.nuget/packages/",
-        "outputPath": "/home/luca/Documents/code/projects/OOP-Game/obj/",
+        "outputPath": "/home/luca/Documents/code/projects/OopGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/luca/.nuget/NuGet/NuGet.Config"
