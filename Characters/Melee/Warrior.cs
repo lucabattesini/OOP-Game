@@ -1,4 +1,3 @@
-
 namespace OopGame.Characters.Melee
 {
     public class Warrior

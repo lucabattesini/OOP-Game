@@ -1,25 +1,28 @@
-public class Necromancer
+namespace OopGame.Characters.Ranged
 {
-    // Fields
-    private string? name;
-    private string? faction;
-    private int abilityPoints;
-    private int healthPoints;
-    private int level;
+    public class Necromancer
+    {
+        // Fields
+        private string? name;
+        private string? faction;
+        private int abilityPoints;
+        private int healthPoints;
+        private int level;
 
-    // Properties
+        // Properties
 
-    // Methods
-    public void ShadowTouch()
-    {
-        Console.WriteLine("Necromancer used shadow touch");
-    }
-    public void VampireBite()
-    {
-        Console.WriteLine("Necromancer bit as a vampire");
-    }
-    public void BoneShield()
-    {
-        Console.WriteLine("Necromancer used a bone shield");
+        // Methods
+        public void ShadowTouch()
+        {
+            Console.WriteLine("Necromancer used shadow touch");
+        }
+        public void VampireBite()
+        {
+            Console.WriteLine("Necromancer bit as a vampire");
+        }
+        public void BoneShield()
+        {
+            Console.WriteLine("Necromancer used a bone shield");
+        }
     }
 }

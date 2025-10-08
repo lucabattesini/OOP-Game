@@ -1,13 +1,16 @@
-public class Staff
+namespace OopGame.Equipment.Weapons
 {
-    // Fields 
-    private int damage;
-
-    // Properties
-
-    // Methods
-    public void MagicAttack()
+    public class Staff
     {
-        Console.WriteLine("Magic attack");
+        // Fields 
+        private int damage;
+
+        // Properties
+
+        // Methods
+        public void MagicAttack()
+        {
+            Console.WriteLine("Magic attack");
+        }
     }
 }

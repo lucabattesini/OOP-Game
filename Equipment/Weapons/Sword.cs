@@ -1,13 +1,16 @@
-public class Sword
+namespace OopGame.Equipment.Weapons
 {
-    // Fields
-    private int damage;
-
-    // Properties
-
-    // Methods
-    public void Attack()
+    public class Sword
     {
-        Console.WriteLine("Attacked");
+        // Fields
+        private int damage;
+
+        // Properties
+
+        // Methods
+        public void Attack()
+        {
+            Console.WriteLine("Attacked");
+        }
     }
 }
