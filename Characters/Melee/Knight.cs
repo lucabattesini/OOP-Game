@@ -1,5 +1,5 @@
 public class Knight
-{
+{ 
     // Fields
     private string? name;
     private string? faction;
@@ -7,12 +7,12 @@ public class Knight
     private int healthPoints;
     private int level;
 
-    // Propreties
+    // Properties
 
     // Methods
     public void HolyBlow()
     {
-        Console.WriteLine("Knight holy blowed");
+        Console.WriteLine("Knight used explosion");
     }
     public void PurifySoul()
     {

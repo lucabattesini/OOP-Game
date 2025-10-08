@@ -1,5 +1,5 @@
 public class Warrior
-{
+{ 
     // Fields
     private string? name;
     private string? faction;
@@ -7,7 +7,7 @@ public class Warrior
     private int healthPoints;
     private int level;
 
-    // Propreties
+    // Properties
 
     // Methods
     public void Strike()
