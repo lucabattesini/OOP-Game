@@ -1,5 +1,7 @@
+using OopGame.Equipment.Weapons;
+
 namespace OopGame.Characters.Melee
-{
+{ 
     public class Warrior
     {
         // Fields
@@ -9,20 +11,27 @@ namespace OopGame.Characters.Melee
         private int healthPoints;
         private int level;
 
+        private Sword Weapons;
+
+        public Warrior()
+        {
+            
+        }
+
         // Properties
 
         // Methods
         public void Strike()
         {
-            Console.WriteLine("Warrior is striking");
+            throw new NotImplementedException();
         }
         public void Execute()
         {
-            Console.WriteLine("Warrior Executed");
+            throw new NotImplementedException();
         }
         public void SkinHarden()
         {
-            Console.WriteLine("Warrior is skin harder");
+            throw new NotImplementedException();
         }
     }
 }

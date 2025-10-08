@@ -5,12 +5,9 @@ namespace OopGame.Equipment.Weapons
         // Fields
         private int damage;
 
-        // Properties
-
-        // Methods
-        public void Attack()
+        public Sword()
         {
-            Console.WriteLine("Attacked");
+            
         }
     }
 }
