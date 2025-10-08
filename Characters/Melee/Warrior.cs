@@ -11,7 +11,7 @@ namespace OopGame.Characters.Melee
         private int healthPoints;
         private int level;
 
-        private Sword Weapons;
+        private Sword sword;
 
         public Warrior()
         {
