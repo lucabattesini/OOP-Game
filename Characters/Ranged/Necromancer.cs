@@ -1,3 +1,5 @@
+using OopGame.Equipment.Weapons;
+
 namespace OopGame.Characters.Ranged
 {
     public class Necromancer
@@ -9,20 +11,27 @@ namespace OopGame.Characters.Ranged
         private int healthPoints;
         private int level;
 
+        private Staff staff;
+
+        public Necromancer()
+        {
+
+        }
+
         // Properties
 
         // Methods
         public void ShadowTouch()
         {
-            Console.WriteLine("Necromancer used shadow touch");
+            throw new NotImplementedException();
         }
         public void VampireBite()
         {
-            Console.WriteLine("Necromancer bit as a vampire");
+            throw new NotImplementedException();
         }
         public void BoneShield()
         {
-            Console.WriteLine("Necromancer used a bone shield");
+            throw new NotImplementedException();
         }
     }
 }

@@ -1,3 +1,5 @@
+using OopGame.Equipment.Weapons;
+
 namespace OopGame.Characters.Melee
 {
     public class Knight
@@ -9,20 +11,27 @@ namespace OopGame.Characters.Melee
         private int healthPoints;
         private int level;
 
+        private Sword sword;
+
+        public Knight()
+        {
+
+        }
+
         // Properties
 
         // Methods
         public void HolyBlow()
         {
-            Console.WriteLine("Knight used explosion");
+            throw new NotImplementedException();
         }
         public void PurifySoul()
         {
-            Console.WriteLine("Knight Purified a soul");
+            throw new NotImplementedException();
         }
         public void RighteousWing()
         {
-            Console.WriteLine("Knight used righteous wing");
+            throw new NotImplementedException();
         }
     }
 }

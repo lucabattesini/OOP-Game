@@ -1,3 +1,5 @@
+using OopGame.Equipment.Weapons;
+
 namespace OopGame.Characters.Ranged
 {
     public class Mage
@@ -9,20 +11,27 @@ namespace OopGame.Characters.Ranged
         private int healthPoints;
         private int level;
 
+        private Staff staff;
+
+        public Mage()
+        {
+
+        }
+
         // Properties
 
         // Methods
         public void FireBall()
         {
-            Console.WriteLine("Mage is using a Fire Ball");
+            throw new NotImplementedException();
         }
         public void ThunderMagic()
         {
-            Console.WriteLine("Mage is using Thunder Magic");
+            throw new NotImplementedException();
         }
         public void IceMagic()
         {
-            Console.WriteLine("mage is using Ice Magic");
+            throw new NotImplementedException();
         }
     }
 }

@@ -5,12 +5,9 @@ namespace OopGame.Equipment.Weapons
         // Fields 
         private int damage;
 
-        // Properties
-
-        // Methods
-        public void MagicAttack()
+        public Staff()
         {
-            Console.WriteLine("Magic attack");
+            
         }
     }
 }

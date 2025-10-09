@@ -1,7 +1,7 @@
 using OopGame.Equipment.Weapons;
 
 namespace OopGame.Characters.Melee
-{ 
+{  
     public class Warrior
     {
         // Fields
